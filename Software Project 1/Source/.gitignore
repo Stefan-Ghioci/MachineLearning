@@ -8,6 +8,7 @@
 
 ## PyTorch
 
+.data
 .coverage
 coverage.xml
 .gradle
